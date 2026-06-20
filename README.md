@@ -91,7 +91,7 @@ The project demonstrates practical skills in data cleaning, data analysis, dashb
 
 ### Main Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/https://github.com/Priyankag0704/Road-Accident-Analysis-Using-Excel/blob/main/Snapshot%20of%20Excel%20Dashboard.png)
 
 ---
 
